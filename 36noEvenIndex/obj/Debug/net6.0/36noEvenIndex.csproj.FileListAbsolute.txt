@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\obj\Debug\net6.0\36noEvenIndex.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\obj\Debug\net6.0\36noEvenIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\obj\Debug\net6.0\36noEvenIndex.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\obj\Debug\net6.0\36noEvenIndex.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\obj\Debug\net6.0\36noEvenIndex.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\bin\Debug\net6.0\36noEvenIndex.exe
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\bin\Debug\net6.0\36noEvenIndex.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\bin\Debug\net6.0\36noEvenIndex.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\bin\Debug\net6.0\36noEvenIndex.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\bin\Debug\net6.0\36noEvenIndex.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\obj\Debug\net6.0\36noEvenIndex.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\obj\Debug\net6.0\refint\36noEvenIndex.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\obj\Debug\net6.0\36noEvenIndex.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\obj\Debug\net6.0\36noEvenIndex.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\36noEvenIndex\obj\Debug\net6.0\ref\36noEvenIndex.dll

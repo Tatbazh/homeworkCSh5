@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\obj\Debug\net6.0\38difference.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\obj\Debug\net6.0\38difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\obj\Debug\net6.0\38difference.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\obj\Debug\net6.0\38difference.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\obj\Debug\net6.0\38difference.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\bin\Debug\net6.0\38difference.exe
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\bin\Debug\net6.0\38difference.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\bin\Debug\net6.0\38difference.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\bin\Debug\net6.0\38difference.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\bin\Debug\net6.0\38difference.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\obj\Debug\net6.0\38difference.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\obj\Debug\net6.0\refint\38difference.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\obj\Debug\net6.0\38difference.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\obj\Debug\net6.0\38difference.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\38difference\obj\Debug\net6.0\ref\38difference.dll

@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\obj\Debug\net6.0\34evenNumbersArray.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\obj\Debug\net6.0\34evenNumbersArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\obj\Debug\net6.0\34evenNumbersArray.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\obj\Debug\net6.0\34evenNumbersArray.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\obj\Debug\net6.0\34evenNumbersArray.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\bin\Debug\net6.0\34evenNumbersArray.exe
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\bin\Debug\net6.0\34evenNumbersArray.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\bin\Debug\net6.0\34evenNumbersArray.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\bin\Debug\net6.0\34evenNumbersArray.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\bin\Debug\net6.0\34evenNumbersArray.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\obj\Debug\net6.0\34evenNumbersArray.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\obj\Debug\net6.0\refint\34evenNumbersArray.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\obj\Debug\net6.0\34evenNumbersArray.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\obj\Debug\net6.0\34evenNumbersArray.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh5\houmwork5\34evenNumbersArray\obj\Debug\net6.0\ref\34evenNumbersArray.dll
