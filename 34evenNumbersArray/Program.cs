@@ -18,10 +18,7 @@ int EvenNumbers(int[] newArray)
     int count = 0;
     foreach (int element in newArray)
     {
-        if (element % 2 == 0)
-        {
-            count++;
-        }
+        if (element % 2 == 0) count++; 
     }
     return count;
 }
@@ -29,5 +26,4 @@ int EvenNumbers(int[] newArray)
 int[] arrayR = RandomArray(4, 100, 999);
 Console.WriteLine(String.Join(" ", arrayR));
 
-//Console.Write(EvenNumbers(arrayR));
 Console.Write($"количество четных чисел в массиве = {EvenNumbers(arrayR)}");

@@ -19,14 +19,13 @@ int NoEvenIndex(int[] newArray)
     int sum = 0;
     for (int index = 0; index < newArray.Length; index++)
     {
-        if (index % 2 != 0) 
-        sum = sum + newArray[index];
+        if (index % 2 != 0) sum = sum + newArray[index];
     }
     return sum;
 }
 
 int[] arrayRand = RandomArray(4, -10, 10); 
 Console.WriteLine($"массив: {String.Join(" ", arrayRand)}");
-//NoEvenIndex(arrayRand);
+
 int result = NoEvenIndex(arrayRand);
 Console.WriteLine($"сумма элементов с нечетным индексом: {result}");
